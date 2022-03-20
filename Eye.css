@@ -5,14 +5,12 @@
 
 body {
     font-family: paloseco;
-background-image: url(Eyeframe0000.jpg);
+background-image: url(Eyeframe1.jpg);
 background-repeat: no-repeat;
 background-size: auto auto;
-/* background-position:top;
+background-position:top;
 animation-delay: 2s;
-animation: Eyechange 5s infinite; */
-
-
+/* animation: Eyechange 5s infinite; */
 }
 
 h1 {
