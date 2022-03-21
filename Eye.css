@@ -1,10 +1,10 @@
-@font-face {
+/* @font-face {
     font-family: paloseco;
     src: url(Paloseco-Medium.ttf);
-}
+} */
 
 body {
-    font-family: paloseco;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 background-image: url(Eyeframe1.jpg);
 background-repeat: no-repeat;
 background-size: auto auto;
@@ -41,6 +41,9 @@ a {
     font-size: 30px;
     color: whitesmoke;
     transition: .5s;
+    border: 2px solid white;
+    padding-bottom: 5px;
+    border-radius: 5px;
 
     animation-name: Blink;
     animation-duration: 5s;
